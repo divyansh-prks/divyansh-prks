@@ -177,9 +177,6 @@
 <img src="https://raw.githubusercontent.com/divyansh-prks/divyansh-prks/output/snake.svg" alt="Snake animation" />
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/divyansh-prks/count.svg?"  />
-</div>
-###
+
 
 
