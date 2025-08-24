@@ -159,9 +159,12 @@
 
 
 # 📊 GitHub Stats:
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=divyansh-prks&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=divyansh-prks&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh-prks&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=divyansh-prks&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -173,10 +176,10 @@
 
 <img src="https://raw.githubusercontent.com/divyansh-prks/divyansh-prks/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/divyansh-prks/count.svg?"  />
 </div>
-
 ###
+
+
