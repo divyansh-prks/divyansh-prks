@@ -170,8 +170,12 @@
 [![](https://visitcount.itsvg.in/api?id=divyansh-prks&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+# Schedule
+<li>5:00 - 8:00   - warmUP  Problem Solving DSA </li>
+<li>8:00 - 12:20  - Slot 1 (College/Dev/Open Source)  </li>
+<li>1:00 - 4:30   - Slot 2 (College/Dev/Open Source) </li>
+<li>5:00 - 8:00   - Slot 3 (Dev) </li>
+<li>8:30 - 11:00  - hangout (Read Blogs / research Papers / Social/chill /new things learn/ Journaling) </li>
 ###
 
 <img src="https://raw.githubusercontent.com/divyansh-prks/divyansh-prks/output/snake.svg" alt="Snake animation" />
