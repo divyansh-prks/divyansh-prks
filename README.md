@@ -167,7 +167,8 @@
 <li>8:30 - 11:00  - hangout (Read Blogs / research Papers / Social/chill /new things learn/ Journaling) </li>
 
 ### currently working ?
-<p>Merge 75 Pr's withing next 3 months</p>
+<p> 1.Converting ideas into reality in hackathons </p>
+<p>2.Merge 75 Pr's withing next 3 months</p>
 <p> current progress - 2/75 </p>
 
 
