@@ -173,8 +173,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/divyansh-prks/divyansh-prks/output/snake.svg" alt="Snake animation" />
-
 
 
 
