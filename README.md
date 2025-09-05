@@ -160,7 +160,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Current Schedule
-<li>5:00 - 8:00   - warmUP  Problem Solving DSA </li>
+<li>6:00 - 8:00   - warmUP  Problem Solving DSA </li>
 <li>8:00 - 12:20  - Slot 1 (College/Dev/Open Source)  </li>
 <li>1:00 - 4:30   - Slot 2 (College/Dev/Open Source) </li>
 <li>5:00 - 8:00   - Slot 3 (Dev) </li>
