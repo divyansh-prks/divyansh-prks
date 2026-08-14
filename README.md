@@ -17,10 +17,15 @@
 <h4 align="left">🔭 A DevOps enthusiast and a backend developer.<br>👯 Looking to collaborate on Golang, and DevOps projects.<br>🌱 Interested in singing, Do Code in Nvim.</h4>
 
 ###
+
+```
  I prefer to code things without asking to ai . 
  you will ask me why ?
+ 
  do you ask your friend to go to the gym to work out for you?
+ 
  i hope now you got the answer why i don't do like code with ai . 
+ ```
 
 
 ###
